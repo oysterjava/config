@@ -1,2 +1,1 @@
-# config
-auth
+true
